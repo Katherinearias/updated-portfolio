@@ -219,7 +219,7 @@ text-align: center;
 /* Thrive Case Study */
 
 #thrive-hero {
-    background: url("images/thrive/Thrive Hero.svg") no-repeat;
+    background: url("../images/thrive/Thrive Hero.svg") no-repeat;
     background-color: #1C3956;
     background-position: center;
     height: 300px;
