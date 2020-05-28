@@ -52,7 +52,7 @@ button {
 
 .HangoutVR{
     border: none;
-    background-image: url("../master/images/HangoutVR@2x.png");
+    background-image: url("../images/HangoutVR@2x.png");
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: 0 2px 44px 0 rgba(0,0,0,0.14);
