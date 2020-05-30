@@ -236,6 +236,13 @@ text-align: center;
 
   }
 
+  .mockuplink{
+     text-align: center;
+     text-decoration: underline;
+  }
+  .slide-deck{
+      padding-left: 15px;
+  }
 
   /* Travel App */
   
