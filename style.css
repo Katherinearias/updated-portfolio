@@ -177,7 +177,6 @@ a{
 
 
 
-
 /* Hangout VR Case Study */
 .hangout{
     background-color: #E6DEDA;
@@ -215,6 +214,20 @@ text-align: center;
     padding-left: 15px;
 }
 
+.footer li{
+    display: inline-block;
+    text-align: center;
+}
+
+.footer a{
+    color: #1C3956;
+}
+
+.current-page{
+    text-decoration: #555555;
+    font-size: large;
+    text-decoration: underline;
+}
 
 /* Thrive Case Study */
 
