@@ -262,6 +262,15 @@ text-align: center;
   }
 
   /* Travel App */
+
+  #travel-hero {
+    background: url("images/Travel/Travel Hero.svg") no-repeat;
+    background-color: #DBD6F4;
+    background-position: center;
+    height: 300px;
+    background-size: 600px;
+ 
+  }
   
 
 
