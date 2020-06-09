@@ -271,6 +271,16 @@ text-align: center;
     background-size: 600px;
  
   }
+
+
+  .bold{
+      font-weight: bold;
+      font-size: larger;
+  }
+
+  .highlight{
+      background-color: pink;
+  }
   
 
 
