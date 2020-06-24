@@ -61,45 +61,7 @@ button {
     height: 480px;
     margin: auto;
     position: relative;
-    cursor: pointer;
     margin-bottom: 20px;
-}
-
-
-.card-pants{
-    text-align: center;
-    position: absolute;
-    top: 67%;
-    cursor: pointer;
-    font-family: 'Lato', sans-serif;
-    padding-left: 5px;
-
-
-}
-
-.card-pants p{
-    padding-top: 8px;
-    color: #555555;
-    line-height: 2;
-}
-
-h4, h5{
-    font-weight: 500;
-    line-height: 1.1;
-
-}
-
-h4{
-    color: #555555;
-
-}
-h5{
-    color: #AAAAAA;
-
-}
-
-a{
-    text-decoration: none;
 }
 
 .Thrive{
@@ -143,6 +105,75 @@ a{
     position: relative;
     margin-bottom: 20px;
 }
+
+.uscis {
+    border: none;
+    background-image: url("images/uscis.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 0 2px 44px 0 rgba(0,0,0,0.14);
+    border-radius: 16px;
+    width: 450px;
+    height: 480px;
+    margin: auto;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.daily{
+    border: none;
+    background-image: url("images/dailyUI.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 0 2px 44px 0 rgba(0,0,0,0.14);
+    border-radius: 16px;
+    width: 450px;
+    height: 480px;
+    margin: auto;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+.card-pants{
+    text-align: center;
+    position: absolute;
+    top: 67%;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    width: 450px;
+
+
+}
+
+.card-pants p{
+    padding-top: 8px;
+    color: #555555;
+    line-height: 2;
+}
+
+h4, h5{
+    font-weight: 500;
+    line-height: 1.1;
+
+}
+
+h4{
+    color: #555555;
+
+}
+h5{
+    color: #AAAAAA;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
 
 
 .footer{
@@ -273,6 +304,10 @@ text-align: center;
   }
 
 
+
+
+
+
   .bold{
       font-weight: bold;
       font-size: larger;
@@ -282,5 +317,26 @@ text-align: center;
       background-color: pink;
   }
   
+/* Daily UI */
+
+.dailyui{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#eight{
+    height: 200px;
+}
+
+.dailyui img{
+    height: 500px;
+
+}
+
+
+
+
 
 
