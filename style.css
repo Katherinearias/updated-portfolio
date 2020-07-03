@@ -328,11 +328,14 @@ text-align: center;
     justify-content: center;
 }
 
-.dailyui img{
+.dailyui .phone{
     height: 500px;
 
 }
 
+.dailyui .desktop{
+    height: 500px;
+}
 
 .bold{
     font-weight: bold;
@@ -341,6 +344,24 @@ text-align: center;
 
 .highlight{
     background-color: pink;
+}
+
+
+/* MOBILE */
+@media (max-width: 640px){
+
+    .jumbotron{
+        margin-top: 50px;
+    }
+
+    .dailyui .phone{
+        height: 500px;
+    
+    }
+
+    .dailyui .desktop{
+        height: 300px;
+    }
 }
 
 
