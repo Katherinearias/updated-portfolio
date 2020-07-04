@@ -336,6 +336,16 @@ text-align: center;
 .dailyui .desktop{
     height: 500px;
 }
+.dailyui-image{
+    position: relative;
+}
+.daily-hover{
+    position: absolute;
+}
+
+
+
+
 
 .bold{
     font-weight: bold;
