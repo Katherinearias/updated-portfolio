@@ -209,6 +209,16 @@ a{
 
 
 /* Hangout VR Case Study */
+
+#hangout-hero {
+    background: url("images/VR/HangoutVR hero.svg") no-repeat;
+    background-color: #E6DEDA;
+    background-position: center;
+    height: 300px;
+    background-size: 500px;
+ 
+  }
+
 .hangout{
     background-color: #E6DEDA;
 margin-top: 20px;
